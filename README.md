@@ -1,5 +1,4 @@
-## EnableSoli
-This module enables the Soli  by setprop before system started.
-
+# Enable Soli
+Enable Soli in any countries for Pixel4/XL
  
  
