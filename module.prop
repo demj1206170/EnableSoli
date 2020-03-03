@@ -1,7 +1,7 @@
 id=EnableSoli
 name= EnableSoli
-version=v1.0
-versionCode=1
+version=v1.2
+versionCode=3
 author=fortunedemj
 description=Enable Pixel Soli,if you want use it, it's at your own risk.开启雷达功能，安装本模块，请自行承担可能的风险
 minMagisk=17000
